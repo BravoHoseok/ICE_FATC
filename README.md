@@ -39,7 +39,7 @@ Also, when our customer gave us an excel document that specified 21 scenarios of
 
 <p align="center">
 <img src="./Img/ICE_PPS_Tool.jpg"><br>
-<strong>Fig.3) Software tool generating DB automatically</strong>
+<strong>Fig.3) Software tool generating DB files automatically</strong>
 <p>
 
 **Fig.4)** demonstrates the entire test environment of the battery power fluctuation. From this test, we can confirm several functional safety.
