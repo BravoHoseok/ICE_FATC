@@ -1,4 +1,4 @@
-# Tusson(TL_PE), Sportage(QL_PE)
+# Tusson (TL_PE), Sportage (QL_PE)
 
 ## 1. Project Overview
 - Implement a HVAC (Heating Ventilation Air Condition) software program
